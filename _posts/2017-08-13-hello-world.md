@@ -7,5 +7,5 @@ categories: Uncategorized
 Hello World!
 
 This is my blog and you're gonna love it.
-
+<b>Bold Text</b>
 :)
