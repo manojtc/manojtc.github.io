@@ -14,3 +14,17 @@ This is my blog and you're gonna love it.
 Some youtube video for you -
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eNCerkVyQdc?ecver=1" frameborder="0" allowfullscreen></iframe>
+
+And some scala code -
+
+```scala
+package com.codecreek
+
+import scala.collection.mutable.Map
+
+class HelloController extends Controller {
+    def helloAction = { implicit request =>
+        Ok("Everything's fine")
+    }
+}
+```
